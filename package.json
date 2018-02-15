@@ -1,0 +1,22 @@
+{
+    "name": "oceanic-next-maleki-custom",
+    "displayName": "Oceanic Next Maleki Custom",
+    "description": "oceanic next dark theme based on react documentation",
+    "version": "0.0.1",
+    "publisher": "shawdaddy",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Next Maleki Custom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Next Maleki Custom-color-theme.json"
+            }
+        ]
+    }
+}
