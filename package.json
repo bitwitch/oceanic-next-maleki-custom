@@ -4,6 +4,10 @@
     "description": "oceanic next dark theme based on react documentation",
     "version": "0.0.1",
     "publisher": "shawdaddy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xxDOOMbox/oceanic-next-maleki-custom.git"
+    },
     "engines": {
         "vscode": "^1.18.0"
     },
